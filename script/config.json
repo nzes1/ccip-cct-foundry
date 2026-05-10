@@ -1,0 +1,17 @@
+{
+  "BnMToken": {
+    "name": "Nzesi BnM",
+    "symbol": "NzsBnM",
+    "decimals": 18,
+    "maxSupply": 0,
+    "preMint": 0,
+    "ccipAdminAddress": "0xda2E5DC778F054d7FB2eE00dD65ab5C977903E40"
+  },
+  "tokenAmountToMint": 1000000000000000000000,
+  "tokenAmountToTransfer": 100000000000000000000,
+  "feeType": "link",
+  "remoteChains": {
+    "43113": 421614,
+    "421614": 43113
+  }
+}
