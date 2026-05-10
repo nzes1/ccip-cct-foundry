@@ -4,6 +4,12 @@ This repository contains my implementation of a Chainlink CCIP Cross-Chain Token
 
 The project focuses on deploying and configuring Burn & Mint token pools across Avalanche Fuji and Arbitrum Sepolia for future reference and experimentation with cross-chain token transfers using Chainlink CCIP.
 
+Here is the Cross chain message hash that can be viewed on CCIP explorer:
+
+### Message ID - 0x612b581dae1f70edb6af50442f7bbb06c4588bc8431b760f08f5a7aa5f821bc5
+
+### CCIP Explorer Link - https://ccip.chain.link/msg/612b581dae1f70edb6af50442f7bbb06c4588bc8431b760f08f5a7aa5f821bc5
+
 ## References
 
 This work was built by following and studying the official Chainlink resources below:
